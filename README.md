@@ -69,6 +69,7 @@ i
 - providing the user with the ability to give hints to the smartphone;
 - ban on wrong hints; 
 - displaying different 'screens' (functional components) depending on the progress of the game;
-- responsive design (portrait or landsacpe orientation).
+- responsive design (portrait or landsacpe orientation);
+- different color palettes for android and iOS.
 
 
